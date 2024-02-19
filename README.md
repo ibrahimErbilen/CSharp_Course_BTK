@@ -5,7 +5,7 @@ This repository contains a comprehensive C# programming language course complete
 ## Course Contents
 
 - **Section 1: Introduction**
-  - What is C#?
+  - What is C#? https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/
   - Why use C#?
   - Basic C# syntax rules
 
