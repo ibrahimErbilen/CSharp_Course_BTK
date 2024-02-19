@@ -39,7 +39,7 @@ This repository contains a comprehensive C# programming language course complete
 2. Review the course materials according to the relevant sections.
 3. Practice by running the code examples.
 
-#Türkçe
+# Türkçe
 
 # C# Detaylı Kurs
 
