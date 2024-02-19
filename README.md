@@ -1,30 +1,49 @@
-# Detaylı C# Kursu
-Bu depo, detaylı bir C# programlama dilini öğrenmek için kapsamlı bir kaynaktır. Bu kurs, C# programlama diline başlangıç yapmak isteyenler veya mevcut bilgilerini derinleştirmek isteyenler için tasarlanmıştır.
+# C# Detaylı Kurs
 
-#Kurs İçeriği
-Bölüm 1: Giriş
-C# nedir?
-C# temelleri
-C# geliştirme ortamları
-Bölüm 2: Temel Kavramlar
-Değişkenler ve Veri Türleri
-Operatörler
-Koşullu İfadeler ve Döngüler
-Bölüm 3: Nesne Yönelimli Programlama (OOP)
-Sınıflar ve Nesneler
-Kalıtım
-Kapsülleme ve Miras
-Polimorfizm
-Bölüm 4: İleri Düzey Konular
-İstisnalar ve Hata Yakalama
-Genişletmeler ve Arayüzler
-Asenkron Programlama
-Bölüm 5: Uygulama Geliştirme
-Örnek Uygulamalar
-Proje: Blog Yönetim Sistemi
-Nasıl Kullanılır
-Bu kursu kullanmak için, depoyu klonlayın veya ZIP dosyası olarak indirin. Daha sonra her bir bölümü sırayla takip edebilirsiniz. Her bölüm, konseptleri açıklayan bir dizi ders içerir ve örneklerle desteklenir.
+Bu repository, benim tarafımdan tamamlanan detaylı bir C# programlama dili kursunu içermektedir. Bu kurs, C# dilini öğrenmek isteyenler için temel ve ileri düzey konuları kapsamaktadır.
 
-Katkıda Bulunma
-Bu kursu geliştirmeye veya düzeltmeye katkıda bulunmak isterseniz, lütfen bir çekme isteği gönderin veya bir konu açın. Katkılarınız büyük ölçüde takdir edilecektir.
+## Kurs İçeriği
 
+- **Bölüm 1: Giriş**
+  - C# nedir?
+  - C# neden kullanılır?
+  - Temel C# syntax kuralları
+
+- **Bölüm 2: Veri Tipleri ve Değişkenler**
+  - Temel veri tipleri
+  - Değişken tanımlama ve kullanma
+
+- **Bölüm 3: Kontrol Yapıları**
+  - If-else ifadeleri
+  - Switch case yapısı
+  - Döngüler (for, while, do-while)
+
+- **Bölüm 4: Fonksiyonlar ve Metotlar**
+  - Fonksiyon tanımlama ve çağırma
+  - Parametreler ve dönüş tipleri
+
+- **Bölüm 5: Nesne Yönelimli Programlama (OOP)**
+  - Sınıflar ve nesneler
+  - Miras (inheritance), polimorfizm, kapsülleme
+
+- **Bölüm 6: Dosya İşlemleri**
+  - Dosya okuma ve yazma işlemleri
+
+- **Bölüm 7: Hata Yakalama ve İstisna Yönetimi**
+  - Try-catch blokları
+  - İstisnaların yönetimi
+
+## Nasıl Kullanılır?
+
+1. Repoyu bilgisayarınıza klonlayın.
+2. Kurs materyallerini ilgili bölümlere göre inceleyin.
+3. Kod örneklerini çalıştırarak pratiğe geçin.
+4. Daha fazla yardım veya sorularınız için [email@example.com](mailto:email@example.com) adresine e-posta gönderin.
+
+## Katkıda Bulunma
+
+Eğer bu kursu geliştirmeye veya düzeltmeye yardımcı olmak istiyorsanız, lütfen forklayın ve pull request gönderin. Katkılarınız büyük bir memnuniyetle karşılanacaktır.
+
+## Lisans
+
+Bu kursun lisansı [MIT License](LICENSE) altındadır. Detaylı bilgi için lisans dosyasını inceleyebilirsiniz.
