@@ -1,3 +1,46 @@
+# Comprehensive C# Course
+
+This repository contains a comprehensive C# programming language course completed by me. The course covers both fundamental and advanced topics for those who want to learn C#.
+
+## Course Contents
+
+- **Section 1: Introduction**
+  - What is C#?
+  - Why use C#?
+  - Basic C# syntax rules
+
+- **Section 2: Data Types and Variables**
+  - Fundamental data types
+  - Variable declaration and usage
+
+- **Section 3: Control Structures**
+  - If-else statements
+  - Switch case structure
+  - Loops (for, while, do-while)
+
+- **Section 4: Functions and Methods**
+  - Function definition and invocation
+  - Parameters and return types
+
+- **Section 5: Object-Oriented Programming (OOP)**
+  - Classes and objects
+  - Inheritance, polymorphism, encapsulation
+
+- **Section 6: File Handling**
+  - File reading and writing operations
+
+- **Section 7: Error Handling and Exception Management**
+  - Try-catch blocks
+  - Handling exceptions
+
+## How to Use?
+
+1. Clone the repository to your computer.
+2. Review the course materials according to the relevant sections.
+3. Practice by running the code examples.
+
+#Türkçe
+
 # C# Detaylı Kurs
 
 Bu repository, benim tarafımdan tamamlanan detaylı bir C# programlama dili kursunu içermektedir. Bu kurs, C# dilini öğrenmek isteyenler için temel ve ileri düzey konuları kapsamaktadır.
