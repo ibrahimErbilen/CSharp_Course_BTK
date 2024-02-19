@@ -6,7 +6,7 @@ This repository contains a comprehensive C# programming language course complete
 
 - **Section 1: Introduction**
   - What is C#? https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/
-  - Why use C#?
+  - Why use C#? https://stackify.com/what-is-c-used-for/   -*-*- https://www.pluralsight.com/blog/software-development/everything-you-need-to-know-about-c-
   - Basic C# syntax rules
 
 - **Section 2: Data Types and Variables**
@@ -48,8 +48,8 @@ Bu repository, benim tarafımdan tamamlanan detaylı bir C# programlama dili kur
 ## Kurs İçeriği
 
 - **Bölüm 1: Giriş**
-  - C# nedir?
-  - C# neden kullanılır?
+  - C# nedir? https://learn.microsoft.com/tr-tr/dotnet/csharp/tour-of-csharp/
+  - Neden C#  https://coderspace.io/sozluk/c   -*-*- https://educathub.com/c-tercih-nedenleri-ve-gelecegi/
   - Temel C# syntax kuralları
 
 - **Bölüm 2: Veri Tipleri ve Değişkenler**
