@@ -37,58 +37,58 @@ This repository contains a comprehensive C# programming language course complete
   -  1-BTK_ConsoleApplication_2
   -  2-Arrays
   -  3-Loops
-    4-Strings
-    5-Classes
-    6-RecapDemo/
-    7-Interfaces/
-    8-InterfacesDemo/
-    9-Inheritance/
-    10- VirtualMethods/
-    11-AbstractClasses/
-    12-RecapDemo2/
-    13-AccesModifiers/
-    14- Access Modifiers Demo/
-    15-Constructors/
-    16-ReferenceAndValueType/
-    17-Collections/
-    18-Exceptions/
-    19-Generics/
-    20-Attributes/
-    21-Reflections/
-    22-Delegates/
-    23-Events/
-    24-Singleton/
-    25-FactoryMethod/
-    26-AbstractFactory/
-    27-Prototype
+  -  4-Strings
+  -  5-Classes
+  -  6-RecapDemo
+  -  7-Interfaces
+  -  8-InterfacesDemo
+  -  9-Inheritance
+  -  10- VirtualMethods
+  -  11-AbstractClasses
+  -  12-RecapDemo2
+  -  13-AccesModifiers
+  -  14- Access Modifiers Demo
+  -  15-Constructors
+  -  16-ReferenceAndValueType
+  -  17-Collections
+  -  18-Exceptions
+  -  19-Generics
+  -  20-Attributes
+  -  21-Reflections
+  -  22-Delegates
+  -  23-Events
+  -  24-Singleton
+  -  25-FactoryMethod
+  -  26-AbstractFactory
+  -  27-Prototype
 ## Structural Design Patterns
 
-    28-Builder/
-    29-Facade/
-    30-Adapter/
-    31-Composite/
-    32-Proxy/
-    33-Decorator/
-    34-Bridge
+  -  28-Builder
+  -  29-Facade
+  -  30-Adapter
+  -  31-Composite
+  -  32-Proxy
+  -  33-Decorator
+  -  34-Bridge
 ## Behavioral Design Patterns
 
-    35-Strategy/
-    36-Observer/
-    37-Chain of Responsibility/
-    38-Memento/
-    39-Template Method/
-    40-State/
-    41-Mediator/
-    42-Command/
-    43-Visito
+  -  35-Strategy
+  -  36-Observer
+  -  37-Chain of Responsibility
+  -  38-Memento
+  -  39-Template Method
+  -  40-State
+  -  41-Mediator
+  -  42-Command
+  -  43-Visito
 ## Creative Design Patterns
 
-    44-Dependency Injection/
-    45-Null Object/
-    46-Multiton
+  -  44-Dependency Injection
+  -  45-Null Object
+  -  46-Multiton
 
 ## Test
-    47-Test Driven Development
+  - 47-Test Driven Development
 
 
 
@@ -136,62 +136,63 @@ Bu repository, benim tarafımdan tamamlanan detaylı bir C# programlama dili kur
   - İstisnaların yönetimi
 
   ## Sıralaması
-    0-BTK_ConsoleApplication/
-    1-BTK_ConsoleApplication_2/
-    2-Arrays/
-    3-Loops/
-    4-Strings/
-    5-Classes/
-    6-RecapDemo/
-    7-Interfaces/
-    8-InterfacesDemo/
-    9-Inheritance/
-    10- VirtualMethods/
-    11-AbstractClasses/
-    12-RecapDemo2/
-    13-AccesModifiers/
-    14- Access Modifiers Demo/
-    15-Constructors/
-    16-ReferenceAndValueType/
-    17-Collections/
-    18-Exceptions/
-    19-Generics/
-    20-Attributes/
-    21-Reflections/
-    22-Delegates/
-    23-Events/
-    24-Singleton/
-    25-FactoryMethod/
-    26-AbstractFactory/
-    27-Prototype
+    -  0-BTK_ConsoleApplication
+  -  1-BTK_ConsoleApplication_2
+  -  2-Arrays
+  -  3-Loops
+  -  4-Strings
+  -  5-Classes
+  -  6-RecapDemo
+  -  7-Interfaces
+  -  8-InterfacesDemo
+  -  9-Inheritance
+  -  10- VirtualMethods
+  -  11-AbstractClasses
+  -  12-RecapDemo2
+  -  13-AccesModifiers
+  -  14- Access Modifiers Demo
+  -  15-Constructors
+  -  16-ReferenceAndValueType
+  -  17-Collections
+  -  18-Exceptions
+  -  19-Generics
+  -  20-Attributes
+  -  21-Reflections
+  -  22-Delegates
+  -  23-Events
+  -  24-Singleton
+  -  25-FactoryMethod
+  -  26-AbstractFactory
+  -  27-Prototype
   ## Yapısal Tasarım Desenleri
 
-    28-Builder/
-    29-Facade/
-    30-Adapter/
-    31-Composite/
-    32-Proxy/
-    33-Decorator/
-    34-Bridge
+  -  28-Builder
+  -  29-Facade
+  -  30-Adapter
+  -  31-Composite
+  -  32-Proxy
+  -  33-Decorator
+  -  34-Bridge
   ## Davranışsal Tasarım Desenleri
 
-    35-Strategy/
-    36-Observer/
-    37-Chain of Responsibility/
-    38-Memento/
-    39-Template Method/
-    40-State/
-    41-Mediator/
-    42-Command/
-    43-Visitor
+  -  35-Strategy
+  -  36-Observer
+  -  37-Chain of Responsibility
+  -  38-Memento
+  -  39-Template Method
+  -  40-State
+  -  41-Mediator
+  -  42-Command
+  -  43-Visito
   ## Yaratımsal Tasarım Desenleri
 
-    44-Dependency Injection/
-    45-Null Object/
-    46-Multiton
+  -  44-Dependency Injection
+  -  45-Null Object
+  -  46-Multiton
+
 
   ## Test
-    47-Test Driven Development
+  -  47-Test Driven Development
 
 
 
