@@ -81,12 +81,3 @@ Bu repository, benim tarafımdan tamamlanan detaylı bir C# programlama dili kur
 1. Repoyu bilgisayarınıza klonlayın.
 2. Kurs materyallerini ilgili bölümlere göre inceleyin.
 3. Kod örneklerini çalıştırarak pratiğe geçin.
-4. Daha fazla yardım veya sorularınız için [email@example.com](mailto:email@example.com) adresine e-posta gönderin.
-
-## Katkıda Bulunma
-
-Eğer bu kursu geliştirmeye veya düzeltmeye yardımcı olmak istiyorsanız, lütfen forklayın ve pull request gönderin. Katkılarınız büyük bir memnuniyetle karşılanacaktır.
-
-## Lisans
-
-Bu kursun lisansı [MIT License](LICENSE) altındadır. Detaylı bilgi için lisans dosyasını inceleyebilirsiniz.
