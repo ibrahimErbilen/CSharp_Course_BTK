@@ -1,0 +1,158 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\BTK_dotNet-master\\14-AccessModifiersDemo\\14-AccessModifiersDemo.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\BTK_dotNet-master\\13-AccesModifiers\\13-AccessModifiers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\BTK_dotNet-master\\13-AccesModifiers\\13-AccessModifiers.csproj",
+        "projectName": "13-AccessModifiers",
+        "projectPath": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\BTK_dotNet-master\\13-AccesModifiers\\13-AccessModifiers.csproj",
+        "packagesPath": "C:\\Users\\ibrah\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\BTK_dotNet-master\\13-AccesModifiers\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ibrah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\BTK_dotNet-master\\14-AccessModifiersDemo\\14-AccessModifiersDemo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\BTK_dotNet-master\\14-AccessModifiersDemo\\14-AccessModifiersDemo.csproj",
+        "projectName": "14-AccessModifiersDemo",
+        "projectPath": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\BTK_dotNet-master\\14-AccessModifiersDemo\\14-AccessModifiersDemo.csproj",
+        "packagesPath": "C:\\Users\\ibrah\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\BTK_dotNet-master\\14-AccessModifiersDemo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ibrah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\BTK_dotNet-master\\13-AccesModifiers\\13-AccessModifiers.csproj": {
+                "projectPath": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\BTK_dotNet-master\\13-AccesModifiers\\13-AccessModifiers.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "T1rKRrJ7LF75MNJNiMl+d/W4gi9CTDsDOyM1PGUhqPXl1WJ7pkUmWYJsbmHyy+iwp3ETL+D63YLnuqK5dapm1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\BTK_dotNet-master\\14-AccessModifiersDemo\\14-AccessModifiersDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ibrah\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\ibrah\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\ibrah\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\ibrah\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
