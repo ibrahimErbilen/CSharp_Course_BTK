@@ -33,6 +33,7 @@ This repository contains a comprehensive C# programming language course complete
   - Try-catch blocks
   - Handling exceptions
 
+## Ranking
   -  0-BTK_ConsoleApplication
   -  1-BTK_ConsoleApplication_2
   -  2-Arrays
@@ -136,7 +137,7 @@ Bu repository, benim tarafımdan tamamlanan detaylı bir C# programlama dili kur
   - İstisnaların yönetimi
 
   ## Sıralaması
-    -  0-BTK_ConsoleApplication
+   -  0-BTK_ConsoleApplication
   -  1-BTK_ConsoleApplication_2
   -  2-Arrays
   -  3-Loops
