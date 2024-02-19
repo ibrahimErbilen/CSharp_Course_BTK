@@ -33,12 +33,12 @@ This repository contains a comprehensive C# programming language course complete
   - Try-catch blocks
   - Handling exceptions
 
-    0-BTK_ConsoleApplication/
-    1-BTK_ConsoleApplication_2/
-    2-Arrays/
-    3-Loops/
-    4-Strings/
-    5-Classes/
+  -  0-BTK_ConsoleApplication
+  -  1-BTK_ConsoleApplication_2
+  -  2-Arrays
+  -  3-Loops
+    4-Strings
+    5-Classes
     6-RecapDemo/
     7-Interfaces/
     8-InterfacesDemo/
